@@ -1,0 +1,38 @@
+body{
+
+background-color: black;
+
+}
+
+h1{color: white;}
+
+.cor1{
+
+background-color: white;
+
+}
+body {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+.navbar, .NOME, .dropdown-menu, .carousel-caption, footer {
+  background-color: #1f1f1f;
+}
+.nav-link, .navbar-brand, .dropdown-item, .container h2 {
+  color: #e0e0e0 !important;
+}
+.carousel-item img {
+  height: 500px;
+  object-fit: cover;
+}
+.container img {
+  margin-bottom: 20px;
+}
+.btn-outline-success {
+  color: #e0e0e0;
+  border-color: #e0e0e0;
+}
+.btn-outline-success:hover {
+  background-color: #e0e0e0;
+  color: #121212;
+}
